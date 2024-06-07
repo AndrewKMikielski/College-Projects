@@ -1,0 +1,338 @@
+
+the stack is empty
+
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 3
+
+
+Stack : 3
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 7
+
+
+Stack : 3, 7
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 11
+
+
+Stack : 3, 7, 11
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 8
+
+
+Stack : 3, 7, 11, 8
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 1
+
+
+Stack : 3, 7, 11, 8, 1
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: -
+
+
+8 - 1 = 7
+
+
+Stack : 3, 7, 11, 7
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: +
+
+
+11 + 7 = 18
+
+
+Stack : 3, 7, 18
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 9
+
+
+Stack : 3, 7, 18, 9
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: /
+
+
+18 / 9 = 2
+
+
+Stack : 3, 7, 2
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 0
+
+
+Stack : 3, 7, 2, 0
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: /
+
+
+Can not divide by zero
+
+
+Stack : 3, 7, 2, 0
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: p
+
+
+0 is removed from the stack.
+
+
+Stack : 3, 7, 2
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: +
+
+
+7 + 2 = 9
+
+
+Stack : 3, 9
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: *
+
+
+3 x 9 = 27
+
+
+Stack : 27
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: +
+
+
+Can not calculate a stack with only one number
+
+
+Stack : 27
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 1
+
+
+Stack : 27, 1
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 2
+
+
+Stack : 27, 1, 2
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: =
+
+
+Enter number to add to the stack: 3
+
+
+Stack : 27, 1, 2, 3
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: c
+
+
+Stack is cleared
+
+
+the stack is empty
+
+
+= ... Add new number to the stack
++ ... Add last two numbers on the stack
+- ... Subtract last two numbers on the stack
+* ... Multiply last two numbers on the stack
+/ ... Divide number to the stack
+P ... Pop and discard top number from the stack
+C ... Clear the stack
+Q ... Quit
+
+Command: q
